@@ -38,7 +38,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.12.2
 	github.com/golang/protobuf v1.4.2
 	github.com/golang/snappy v0.0.2 // indirect
-	github.com/google/go-cmp v0.5.2
+	github.com/google/go-cmp v0.6.0
 	github.com/google/mako v0.2.0
 	github.com/google/uuid v1.1.2
 	github.com/gorilla/mux v1.8.0 // indirect
@@ -97,11 +97,9 @@ require (
 	go.opencensus.io v0.22.4
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0
-	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a // indirect
-	golang.org/x/net v0.0.0-20200923182212-328152dc79b1 // indirect
+	golang.org/x/net v0.36.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
-	golang.org/x/sys v0.0.0-20200923182605-d9f96fdee20d // indirect
-	golang.org/x/tools v0.0.0-20200923182640-463111b69878
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d
 	google.golang.org/api v0.32.0
 	google.golang.org/genproto v0.0.0-20200924141100-a14c0a98937d
 	google.golang.org/grpc v1.32.0
